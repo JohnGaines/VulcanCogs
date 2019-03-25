@@ -1,5 +1,5 @@
 from redbot.core import commands
-        
+
 class Mycog:
     """My custom cog that does stuff!"""
 
