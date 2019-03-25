@@ -1,4 +1,4 @@
-from .mycog import Mycog
+from .qotd import qotd
 
 def setup(bot):
-    bot.add_cog(Mycog(bot))
+    bot.add_cog(qotd(bot))
